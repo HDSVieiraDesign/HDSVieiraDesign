@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on small projects and communitys
 - 📫 How to reach me hdsvieiradesign@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Big fan of Games published by FromSoftware
 
 <!---
 HDSVieiraDesign/HDSVieiraDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
