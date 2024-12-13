@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HDSVieira
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on small projects and communitys
+- 💞️ I’m looking to collaborate on small projects and communities
 - 📫 How to reach me hdsvieiradesign@gmail.com
 - ⚡ Fun fact: Big fan of Games published by FromSoftware
 
