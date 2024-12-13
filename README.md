@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HDSVieiraDesign
-- 👀 I’m interested in Design
+- 👋 Hi, I’m @HDSVieira
+- 👀 I’m interested in Web Design
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on small projects and communitys
 - 📫 How to reach me hdsvieiradesign@gmail.com
